@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2
+
+    ,"name": "Fake Gen"
+    ,"description": "Allow quick generate fake data for html forms"
+    ,"version": "0.1"
+    ,"author": "Ridermansb"
+
+    ,"permissions": [
+        "https://secure.flickr.com/"
+    ]
+    ,"browser_action": {
+        "default_icon": {
+            "19": "icon19.png",
+            "38": "icon38.png"
+        }
+        ,"default_popup": "popup.html"
+    }
+}

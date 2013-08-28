@@ -1,0 +1,9 @@
+body {
+	width: 600px;
+	height: 250px;
+	padding: 0 0 20px;
+}
+
+#content {
+	padding: 20px;
+}
